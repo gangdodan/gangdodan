@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gangdodan&langs_count=10&layout=compact&theme=nord)](https://github.com/gangdodan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gangdodan&langs_count=10&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gangdodan&show_icons=true&theme=nord)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gangdodan&show_icons=false&count_private=true)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gangdodan)](https://github.com/anuraghazra/github-readme-stats)
