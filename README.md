@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gangdodan&show_icons=false&count_private=true)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gangdodan)](https://github.com/anuraghazra/github-readme-stats)
+
